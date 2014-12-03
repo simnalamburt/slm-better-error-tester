@@ -1,6 +1,7 @@
 {
   "devDependencies": {
+    "slm": "^0.1.5",
     "gulp": "^3.8.8",
-    "gulp-slm": "0.0.4"
+    "gulp-slm": "0.1.0"
   }
 }
