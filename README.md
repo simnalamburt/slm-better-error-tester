@@ -1,4 +1,4 @@
-slm-better-error
+[slm-better-error](//github.com/simnalamburt/slm-better-error) tester
 ========
 
 See how hard to read error message
